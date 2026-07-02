@@ -13,35 +13,31 @@
 
 <div align="center">
 
-<img src="https://github.com/ali-dev22.png" width="135" style="border-radius:50%;" />
+<img src="profile.jpg" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Abdellatif Ali" />
 
 # Abdellatif Ali
 
-### Electrical & Information Engineering Student
+**Electrical & Information Engineering Student**
 
-**Automation · Embedded Systems · RF & PCB Design · Robotics**
+Automation · Embedded Systems · RF & PCB Design · Robotics
 
-<br>
+<br/>
 
+<p align="center">
 <a href="https://linkedin.com/in/abdellatif-ali-b34295362">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" alt="LinkedIn"/> LinkedIn
 </a>
-
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="mailto:abdellatifibrahim405@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" alt="Email"/> abdellatifibrahim405@gmail.com
 </a>
-
-<a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
-  <img src="https://img.shields.io/badge/Location-Hannover%2C%20Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</a>
-
-<img src="https://img.shields.io/badge/Open%20to-Werkstudent%20%7C%20Internship-2EA043?style=for-the-badge&logo=briefcase&logoColor=white" />
-
-<br><br>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+📍 Hannover, Germany
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+💼 Open to Werkstudent / Internship
+</p>
 
 </div>
-
----
 
 
 
