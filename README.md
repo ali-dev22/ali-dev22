@@ -24,7 +24,8 @@ Automation · Embedded Systems · RF & PCB Design · Robotics
 
 <p align="center">
 <a href="https://linkedin.com/in/abdellatif-ali-b34295362">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" alt="LinkedIn"/> LinkedIn
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="18" height="18" alt="LinkedIn" style="vertical-align:middle;" />
+  <b>LinkedIn</b>
 </a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="mailto:abdellatifibrahim405@gmail.com">
