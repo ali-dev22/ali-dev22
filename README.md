@@ -13,46 +13,35 @@
 
 <div align="center">
 
+<img src="https://github.com/ali-dev22.png" width="135" />
+
 # Abdellatif Ali
 
-### Electrical & Information Engineering Student · Automation · Embedded Systems · RF & PCB Design · Robotics
+### Electrical & Information Engineering Student  
+**Automation · Embedded Systems · RF & PCB Design · Robotics**
 
-<p>
+<br>
+
 <a href="https://linkedin.com/in/abdellatif-ali-b34295362">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-&nbsp;&nbsp;
-
 <a href="mailto:abdellatifibrahim405@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  <img src="https://img.shields.io/badge/Email-abdellatifibrahim405%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/📍%20Hannover,%20Germany-20232A?style=for-the-badge"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/💼%20Open%20to%20Werkstudent-2EA043?style=for-the-badge"/>
-
-</p>
-
-<p>
-<a href="https://linkedin.com/in/abdellatif-ali-b34295362">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
+  <img src="https://img.shields.io/badge/Location-Hannover%2C%20Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
+<img src="https://img.shields.io/badge/Open%20to-Werkstudent%20%7C%20Internship-2EA043?style=for-the-badge&logo=rocket&logoColor=white" />
 
-<a href="mailto:abdellatifibrahim405@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
 
-<img src="https://img.shields.io/badge/HSH-Electrical%20Engineering-blue?style=flat-square"/>
-
-</p>
+<img src="https://img.shields.io/badge/HSH-Electrical%20Engineering-1F6FEB?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Embedded%20Systems-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/RF%20%26%20PCB-Design-8B5CF6?style=flat-square" />
 
 </div>
 
+---
 ---
 
 ### About Me
