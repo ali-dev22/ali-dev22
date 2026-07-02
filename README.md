@@ -23,50 +23,27 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <a href="https://linkedin.com/in/abdellatif-ali-b34295362">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" />
-        <br>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center" width="180">
-      <a href="mailto:abdellatifibrahim405@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" />
-        <br>
-        <b>Email</b>
-      </a>
-    </td>
-    <td align="center" width="210">
-      <a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
-        <img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="42" height="42" />
-        <br>
-        <b>Hannover, Germany</b>
-      </a>
-    </td>
-    <td align="center" width="220">
-      <img src="https://api.iconify.design/mdi/briefcase.svg?color=%232EA043" width="42" height="42" />
-      <br>
-      <b>Werkstudent / Internship</b>
-    </td>
-  </tr>
-</table>
+<a href="https://linkedin.com/in/abdellatif-ali-b34295362">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br>
+<a href="mailto:abdellatifibrahim405@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
+  <img src="https://img.shields.io/badge/Location-Hannover%2C%20Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Open%20to-Werkstudent%20%7C%20Internship-2EA043?style=for-the-badge&logo=briefcase&logoColor=white" />
+
+<br><br>
 
 </div>
 
 ---
 
-## About Me
 
-I'm a student of Electrical & Information Engineering at **HSH** with a focus on Automation & Process Informatics, currently in my 4th semester. I enjoy working hands-on across the full stack of electrical engineering — from embedded C and microcontrollers, to PCB layout and RF/antenna design, to industrial automation with Siemens TIA Portal.
-
-My most substantial project so far is a broadband Vivaldi antenna, simulated in openEMS/Octave and verified through RF measurement. I'm currently looking for a Werkstudent position or internship in Germany in automation, embedded systems, robotics, or RF/PCB design.
-
----
 
 ### About Me
 
