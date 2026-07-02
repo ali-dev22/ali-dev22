@@ -12,8 +12,7 @@
 -->
 
 <div align="center">
-
-<img src="profile.jpg" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Abdellatif Ali" />
+<img src="https://github.com/ali-dev22.png" width="135" height="135" style="border-radius:50%; object-fit:cover;" alt="Abdellatif Ali">
 
 # Abdellatif Ali
 
