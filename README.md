@@ -13,48 +13,59 @@
 
 <div align="center">
 
-<img src="https://github.com/ali-dev22.png" width="135" />
+<img src="https://github.com/ali-dev22.png" width="135" style="border-radius:50%;" />
 
 # Abdellatif Ali
 
-### Electrical & Information Engineering Student  
+### Electrical & Information Engineering Student
+
 **Automation · Embedded Systems · RF & PCB Design · Robotics**
 
 <br>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="170">
+    <td align="center" width="180">
       <a href="https://linkedin.com/in/abdellatif-ali-b34295362">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" />
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" />
         <br>
-        <sub><b>LinkedIn</b></sub>
+        <b>LinkedIn</b>
       </a>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="180">
       <a href="mailto:abdellatifibrahim405@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" />
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" />
         <br>
-        <sub><b>Email</b></sub>
-      </a>
-    </td>
-    <td align="center" width="190">
-      <a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
-        <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="34" height="34" />
-        <br>
-        <sub><b>Hannover, Germany</b></sub>
+        <b>Email</b>
       </a>
     </td>
     <td align="center" width="210">
-      <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="34" height="34" />
+      <a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
+        <img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="42" height="42" />
+        <br>
+        <b>Hannover, Germany</b>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <img src="https://api.iconify.design/mdi/briefcase.svg?color=%232EA043" width="42" height="42" />
       <br>
-      <sub><b>Werkstudent / Internship</b></sub>
+      <b>Werkstudent / Internship</b>
     </td>
   </tr>
 </table>
 
 <br>
+
+</div>
+
 ---
+
+## About Me
+
+I'm a student of Electrical & Information Engineering at **HSH** with a focus on Automation & Process Informatics, currently in my 4th semester. I enjoy working hands-on across the full stack of electrical engineering — from embedded C and microcontrollers, to PCB layout and RF/antenna design, to industrial automation with Siemens TIA Portal.
+
+My most substantial project so far is a broadband Vivaldi antenna, simulated in openEMS/Octave and verified through RF measurement. I'm currently looking for a Werkstudent position or internship in Germany in automation, embedded systems, robotics, or RF/PCB design.
+
 ---
 
 ### About Me
