@@ -22,25 +22,38 @@
 
 <br>
 
-<a href="https://linkedin.com/in/abdellatif-ali-b34295362">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:abdellatifibrahim405@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abdellatifibrahim405%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
-  <img src="https://img.shields.io/badge/Location-Hannover%2C%20Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Open%20to-Werkstudent%20%7C%20Internship-2EA043?style=for-the-badge&logo=rocket&logoColor=white" />
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <a href="https://linkedin.com/in/abdellatif-ali-b34295362">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" />
+        <br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="mailto:abdellatifibrahim405@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" />
+        <br>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://www.google.com/maps/search/?api=1&query=Hannover%2C%20Germany">
+        <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="34" height="34" />
+        <br>
+        <sub><b>Hannover, Germany</b></sub>
+      </a>
+    </td>
+    <td align="center" width="210">
+      <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="34" height="34" />
+      <br>
+      <sub><b>Werkstudent / Internship</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/HSH-Electrical%20Engineering-1F6FEB?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Automation%20%26%20Embedded%20Systems-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/RF%20%26%20PCB-Design-8B5CF6?style=flat-square" />
-
-</div>
-
+<br>
 ---
 ---
 
