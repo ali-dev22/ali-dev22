@@ -15,12 +15,18 @@
 
 # Abdellatif Ali
 
-**Electrical & Information Engineering Student** · Automation · Embedded Systems · RF & PCB Design · Robotics
+**Electrical & Information Engineering Student · Automation · Embedded Systems · RF & PCB Design · Robotics**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdellatif--ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdellatif-ali-b34295362)
-[![Email](https://img.shields.io/badge/Email-abdellatifibrahim405%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdellatifibrahim405@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Hannover%2C%20Germany-444444?style=flat-square)](#)
-[![Status](https://img.shields.io/badge/Open%20to-Werkstudent%20%2F%20Internship-2ea44f?style=flat-square)](#)
+<p>
+  <a href="https://linkedin.com/in/abdellatif-ali-b34295362">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdellatif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdellatifibrahim405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdellatifibrahim405%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hannover%2C%20Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Werkstudent%20%7C%20Internship-2EA043?style=for-the-badge&logo=briefcase&logoColor=white" />
+</p>
 
 </div>
 
@@ -28,7 +34,7 @@
 
 ### About Me
 
-I'm a student of Electrical & Information Engineering at **Hochschule Hannover** (focus: Automation & Process Informatics), currently in my 4th semester. I enjoy working hands-on across the full stack of electrical engineering — from embedded C and microcontrollers, to PCB layout and RF/antenna design, to industrial automation with Siemens TIA Portal. My most substantial project so far is a broadband Vivaldi antenna, simulated in openEMS/Octave and verified through RF measurement. I'm currently looking for a **Werkstudent position or internship in Germany** in automation, embedded systems, robotics, or RF/PCB design.
+I'm a student of Electrical & Information Engineering at **HSH** (focus: Automation & Process Informatics), currently in my 4th semester. I enjoy working hands-on across the full stack of electrical engineering — from embedded C and microcontrollers, to PCB layout and RF/antenna design, to industrial automation with Siemens TIA Portal. My most substantial project so far is a broadband Vivaldi antenna, simulated in openEMS/Octave and verified through RF measurement. I'm currently looking for a **Werkstudent position or internship in Germany** in automation, embedded systems, robotics, or RF/PCB design.
 
 ---
 
